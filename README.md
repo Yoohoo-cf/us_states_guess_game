@@ -27,7 +27,7 @@ Navigate to the project directory:
 `cd us_states_guess_game`
 
 Run the game:
-`py main.py` on Windows or `python3 main.py`
+`py main.py` on Windows or `python3 main.py` on Mac
 
 Enter your guess in the input box.
 Continue guessing until you name all 50 states or choose to exit by typing "Exit".
